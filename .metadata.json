@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "goeveg",
+    "oncran": true
+  }
+]
